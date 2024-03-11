@@ -4,3 +4,4 @@
 -belajar next-js
 -belajar-react
 -belajar typescript
+-belajar membuat sesuatu
