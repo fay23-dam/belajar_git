@@ -3,3 +3,5 @@
 -belajar-node js
 -belajar next-js
 -belajar-react
+-membuat sebuah project menggunakan framework react
+-belajar typescript
