@@ -3,3 +3,4 @@
 -belajar-node js
 -belajar next-js
 -belajar-react
+-belajar typescript
