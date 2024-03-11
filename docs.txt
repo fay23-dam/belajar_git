@@ -4,3 +4,4 @@ list belajar git
   -melakukan commit
 -belajar commit
 -belajar branch
+-belajar fork
