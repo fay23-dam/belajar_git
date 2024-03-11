@@ -2,3 +2,5 @@ list belajar git
   -membuat repo
   -membuat readme
   -melakukan commit
+-belajar commit
+-belajar branch
