@@ -5,3 +5,4 @@
 -belajar-react
 -membuat sebuah project menggunakan framework react
 -belajar typescript
+-belajar membuat sesuatu
